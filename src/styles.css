@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Montserrat&family=Sacramento&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #34d399;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+body {
+  background-color: #b4fddf;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 2.6rem;
+  color: #374158;
+}
+
+.searchBar {
+  padding: 0.8rem;
+  border: 3px solid #047857;
+  width: 50%;
+  border-radius: 1rem;
+  outline: none;
+}
+
+.foodMeaning {
+  font-family: "Indie Flower", cursive;
+  margin: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #312e81;
+  align-content: center;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  margin: 1rem;
+  color: #374158;
+}
+
+.foodDatabase {
+  display: inline-block;
+  margin: 1rem;
+  background-color: rgba(0, 90, 0, 0.15);
+  padding: 0.5rem;
+  font-size: 2rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
